@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @peterhalde
-- 👀 I’m interested in artificial intelligence applications to automisation, human-machine interaction and languages!
-- 🌱 I’m currently learning Java, PyTorch and improving my C++ skills.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Team AV:Evaluation at the Chair of Automotive Engineering at the Technical University of Munich.
 
 <!---
 peterhalde/peterhalde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
